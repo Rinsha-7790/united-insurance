@@ -1,0 +1,6 @@
+{
+  "name": "United Insurance - Drive with Confidence",
+  "description": "Institutional-grade motor insurance for private cars, two-wheelers, and commercial fleets with 120s policy issuance and 24/7 roadside assistance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
